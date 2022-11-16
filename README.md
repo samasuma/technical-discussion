@@ -10,4 +10,8 @@ This is a demo repo for sharing ideas around communication
 * 
 ## Gist 
 
-This is a good example of my code: https://gist.github.com/samasuma/3e1ea8e6cdb02adb086396776f0774ba
+This is a good example of [my code](https://gist.github.com/samasuma/3e1ea8e6cdb02adb086396776f0774ba)
+
+### Colab Example
+
+This is the [notebook](https://github.com/samasuma/technical-discussion/blob/main/python_devOps_technical_docs.ipynb)
